@@ -64,15 +64,8 @@ public enum Menu
 }
 Each option corresponds to a specific action in the application, and users interact with the program through these menu choices.
 
-Project Structure
+Project Structure:
 
-/BelgiumCampusCafeteriaDiscountSystem
-    ├── Program.cs            # Main program file with logic
-    ├── Student.cs            # Class representing a student
-    ├── DiscountEvaluator.cs  # Class for evaluating discount eligibility
-    ├── DiscountStats.cs      # Class for generating qualification statistics
-    ├── Menu.cs               # Enum that handles menu options
-    └── README.md             # Project documentation
 Program.cs: The main entry point of the application that drives the logic for the menu and operations.
 
 Student.cs: A class that holds the details of a student.
